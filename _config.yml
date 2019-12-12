@@ -1,16 +1,16 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
-baseurl: ""
+title: Minimal Description Length
+url: "https://InsuJeon.github.io"
+baseurl: "/mindl"
 description: >
-    기계인간 블로그
+    Minimal Description Length Blog Under Cosntruction
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: csnstat@gmail.com
+author: Insu Jeon
+profile: check out
+twitter_username: csnstat
+github_username: csnstat
 comment-support: utterances
 
 # Build settings
