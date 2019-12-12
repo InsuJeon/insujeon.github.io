@@ -38,10 +38,10 @@ collections:
 
 # Comment Service
 disqus:
-  id: johngrib
-  shortname: johngrib
+  id: csnstat
+  shortname: csnstat
 utterances:
-  repo: johngrib/johngrib.github.io
+  repo: csnstat/csnstat.github.io
   issue-term: pathname
   label: Comment
   branch: master
