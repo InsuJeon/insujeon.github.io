@@ -5,7 +5,7 @@ regenerate: true
 ---
 
 <div class="blog-face">
-    <div>
+    <!-- <div>
         <H3>
             <a href="https://github.com/vimwiki/vimwiki">Vimwiki</a>
             +
@@ -13,7 +13,7 @@ regenerate: true
             +
             <a href="https://pages.github.com/">Github.io</a>
         </H3>
-    </div>
+    </div> -->
         기억 보조용 위키
     <div>
     </div>
@@ -35,8 +35,11 @@ regenerate: true
         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
     </div>
 </div>
+
+
 <div>
-    <H3 class="indent">최근 변경된 문서</H3>
+    <!-- <H3 class="indent">최근 변경된 문서</H3> -->
+    <H3 class="indent">Recent Posts</H3>
     <ul class="post-list">
 {% assign documents = site.wiki | sort: 'updated' | reverse %}
 {% for doc in documents limit: 30 %}
@@ -62,7 +65,8 @@ regenerate: true
 {% endfor %}
     </ul>
     <h4>
-        <a href="/recent/">최근 변경된 문서 전체 리스트 보기</a>
+        <!-- <a href="/recent/">최근 변경된 문서 전체 리스트 보기</a> -->
+        <a href="/recent/">List of Rescent Posts</a>
     </h4>
 </div>
 {% include createLink.html %}
