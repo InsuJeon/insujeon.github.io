@@ -1,6 +1,6 @@
 # Site settings
 title: Minimal Description Length
-url: "https://csnstat.github.io"
+url: "https://insujeon.github.io"
 baseurl: ""
 description: >
     Minimal Description Length Blog Under Cosntruction
@@ -9,7 +9,7 @@ description: >
 email: insuj3on@gmail.com
 author: Insu Jeon
 profile: check out
-twitter_username: csnstat
+twitter_username: insuj3on
 github_username: insujeon
 comment-support: utterances
 

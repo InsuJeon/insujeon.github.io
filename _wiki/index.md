@@ -21,10 +21,9 @@ comment : false
     * [[vim-conceallevel]]{conceallevel (Vim)}
 * [[YAML]]
 
-
 ---
 
-# blog
+<!-- # blog
 <div>
     <ul>
 {% for post in site.posts %}
@@ -37,5 +36,5 @@ comment : false
     {% endif %}
 {% endfor %}
     </ul>
-</div>
+</div> -->
 

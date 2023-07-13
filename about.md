@@ -5,6 +5,8 @@ permalink: /about/
 theme: jekyll-theme-minimal
 ---
 
+![]({{ site.url }}/wiki-img/insujeon.jpg)
+
 ## Insu Jeon
 
 Graduated from UCLA with a major in computer engineering and a minor in statistics.
