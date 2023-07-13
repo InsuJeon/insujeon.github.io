@@ -4,39 +4,6 @@ adsense: false
 regenerate: true
 ---
 
-<div class="blog-face">
-    <!-- <div>
-        <H3>
-            <a href="https://github.com/vimwiki/vimwiki">Vimwiki</a>
-            +
-            <a href="https://jekyllrb.com/">Jekyll</a>
-            +
-            <a href="https://pages.github.com/">Github.io</a>
-        </H3>
-    </div> -->
-        <!-- 기억 보조용 위키
-    <div>
-    </div> -->
-    <div class="contact">
-{% if site.github_username %}
-        <a href="https://github.com/{{ site.github_username }}">GitHub</a>
-{% endif %}
-{% if site.twitter_username %}
-        <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
-{% endif %}
-{% if site.email %}
-        <a href="mailto:{{ site.email }}">Email</a>
-{% endif %}
-        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
-    </div>
-
-    <!-- <div>
-        <a href="/blog/">블로그</a>
-        /
-        <a href="/tag/">태그</a>
-    </div> -->
-</div>
-
 
 <div>
     <!-- <H3 class="indent">최근 변경된 문서</H3> -->
@@ -70,4 +37,51 @@ regenerate: true
         <!-- <a href="/recent/">List of Rescent Posts</a>
     </h4> -->
 </div>
+
+
+
+<style>
+    .empty-line {
+      margin-bottom: 60px;
+    }
+</style>
+<div class="empty-line"></div>
+
+
+<div class="blog-face">
+    <!-- <div>
+        <H3>
+            <a href="https://github.com/vimwiki/vimwiki">Vimwiki</a>
+            +
+            <a href="https://jekyllrb.com/">Jekyll</a>
+            +
+            <a href="https://pages.github.com/">Github.io</a>
+        </H3>
+    </div> -->
+        <!-- 기억 보조용 위키
+    <div>
+    </div> -->
+    <div class="contact">
+{% if site.github_username %}
+        <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+{% endif %}
+{% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+{% endif %}
+{% if site.email %}
+        <a href="mailto:{{ site.email }}">Email</a>
+{% endif %}
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+    </div>
+
+    <!-- <hr> -->
+    <br>
+    <!-- <div>
+        <a href="/blog/">블로그</a>
+        /
+        <a href="/tag/">태그</a>
+    </div> -->
+</div>
+
+
 {% include createLink.html %}
