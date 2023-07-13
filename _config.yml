@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Site settings
 title: Minimal Description Length
 url: "https://csnstat.github.io"
