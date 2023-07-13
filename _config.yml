@@ -6,11 +6,11 @@ description: >
     Minimal Description Length Blog Under Cosntruction
 
 # My information
-email: csnstat@gmail.com
+email: insuj3on@gmail.com
 author: Insu Jeon
 profile: check out
 twitter_username: csnstat
-github_username: csnstat
+github_username: insujeon
 comment-support: utterances
 
 # Build settings
@@ -38,10 +38,10 @@ collections:
 
 # Comment Service
 disqus:
-  id: csnstat
-  shortname: csnstat
+  id: insujeon
+  shortname: insujeon
 utterances:
-  repo: csnstat/csnstat.github.io
+  repo: insujeon/insujeon.github.io
   issue-term: pathname
   label: Comment
   branch: master
