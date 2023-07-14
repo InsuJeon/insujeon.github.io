@@ -4,7 +4,7 @@ title   : Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자
 summary : 마음에 드는 무료 위키가 없어서 만들어보았다
 date    : 2017-12-06 21:44:18 +0900
 updated : 2019-10-30 08:09:16 +0900
-tag     : wiki vimwiki jekyll blog
+tags     : wiki vimwiki jekyll blog
 toc     : true
 comment : true
 public  : true
