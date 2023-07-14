@@ -382,6 +382,14 @@ tools:
     url: /wiki/tools
     updated: '2018-02-06 07:05:19 +0900'
     children: [useful-site]
+tools2:
+    type: wiki
+    title: tools2
+    summary: '도구 및 사이트 소개'
+    parent: index
+    url: /wiki/tools2
+    updated: '2018-02-06 07:05:19 +0900'
+    children: []
 useful-site:
     type: wiki
     title: '유용한 웹 서비스 모음'
