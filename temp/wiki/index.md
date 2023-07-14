@@ -9,17 +9,21 @@ public  : true
 comment : false
 ---
 
-* [[ml-grocery]]{ML Grocery}
-    * [[ml-basics]]{ML Basics}
-    * [[math]]{Math}
-    * [[programming]]{Programming}
-    * [[ml-blogs]]{ML Blogs}
-    * [[githubs]]{GitHubs}
-    * [[workshop]]{Workshop}
-    * [[vim-conceallevel]]{conceallevel (Vim)}
-    
----
+* [[tools2]]
 
+* [[tools]]
+    * [[useful-site]]
+        * [[google-search-console-remove-outdated-content]]{구글 웹 도구 - 오래된 콘텐츠 삭제}
+* [[programming-language]]{프로그래밍 언어}
+    * [[Groovy]]
+* [[how-to]]
+    * [[mathjax-latex]]
+* [[Vim]]
+    * [[my-wiki]]
+    * [[vim-conceallevel]]{conceallevel (Vim)}
+* [[YAML]]
+
+---
 
 <!-- # blog
 <div>
