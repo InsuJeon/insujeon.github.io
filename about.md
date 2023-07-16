@@ -12,7 +12,7 @@ theme: jekyll-theme-minimal
 
 I graduated from [UCLA](https://samueli.ucla.edu/) with a major in Computer Science and a minor in Statistics.
 I graduated from [Seoul National University](https://vision.snu.ac.kr/) with a Ph.D. in artificial intelligence.
-I studied [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [NLP](https://en.wikipedia.org/wiki/Natural_language_processing), [Bayesian deep learning](https://en.wikipedia.org/wiki/Bayesian_network), [generative models](https://en.wikipedia.org/wiki/Generative_model), and [meta-learning](https://en.wikipedia.org/wiki/Meta-learning).
+I studied [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [NLP](https://en.wikipedia.org/wiki/Natural_language_processing), [Bayesian deep learning](https://en.wikipedia.org/wiki/Bayesian_network), [generative models](https://en.wikipedia.org/wiki/Generative_model), and meta-learning.
 I have lectures and [entrepreneurship](https://rippleai.co/en/) experiences related to artificial intelligence.
 
 
