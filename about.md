@@ -20,7 +20,7 @@ Among artificial intelligence fields, working on NLP, computer vision, Bayesian 
 
 ## Education
 
-* Ph.D : Department of Computer Science and Engineering, Seoul National University, 2012~2023
+* Ph.D : Department of Computer Science and Engineering, Seoul National University, 2013~2023
 
 * B.S : Major in Computer Science, Minor in Statistics, University of California in Los Angeles, 2019~2012
 
