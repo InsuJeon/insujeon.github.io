@@ -9,17 +9,11 @@ theme: jekyll-theme-minimal
 
 # Insu Jeon
 
-Graduated from UCLA with a major in computer engineering and a minor in statistics.
-Currently working on the Ph.D. program at Seoul National University.
-Among artificial intelligence fields, working on NLP, computer vision, Bayesian deep learning, Generative models, and currently on Bayesian meta-learning.
-
 
 I graduated from [UCLA](https://samueli.ucla.edu/) with a major in Computer Science and a minor in Statistics.
 I graduated from [Seoul National University](https://vision.snu.ac.kr/) with a Ph.D. in artificial intelligence.
-I studied [computer vision](https://en.wikipedia.org/wiki/Computer_vision), NLP, Bayesian deep learning, generative models, and meta-learning.
-I have experience in lectures and [entrepreneurship](https://rippleai.co/en/) experiences related to artificial intelligence.
-
-
+I studied [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [NLP](https://en.wikipedia.org/wiki/Natural_language_processing), [Bayesian deep learning](https://en.wikipedia.org/wiki/Bayesian_network), [generative models](https://en.wikipedia.org/wiki/Generative_model), and [meta-learning](https://en.wikipedia.org/wiki/Meta-learning).
+I have lectures and [entrepreneurship](https://rippleai.co/en/) experiences related to artificial intelligence.
 
 
 
@@ -34,6 +28,8 @@ I have experience in lectures and [entrepreneurship](https://rippleai.co/en/) ex
 * B.S : Major in Computer Science, Minor in Statistics, University of California in Los Angeles, 2019~2012
 
 ## Published Paper
+
+* **Insu Jeon**, Federated Learning via Meta-Variational Dropout, 2023 (under review).
 
 * **Insu Jeon**, Youngjin Park and Gunhee Kim, Neural Variational Dropout Processes, ICLR, 2022.
 
