@@ -14,6 +14,15 @@ Currently working on the Ph.D. program at Seoul National University.
 Among artificial intelligence fields, working on NLP, computer vision, Bayesian deep learning, Generative models, and currently on Bayesian meta-learning.
 
 
+I graduated from [UCLA](https://samueli.ucla.edu/) with a major in Computer Science and a minor in Statistics.
+I graduated from [Seoul National University](https://vision.snu.ac.kr/) with a Ph.D. in artificial intelligence.
+I studied [computer vision](https://en.wikipedia.org/wiki/Computer_vision), NLP, Bayesian deep learning, generative models, and meta-learning.
+I have experience in lectures and [entrepreneurship](https://rippleai.co/en/) experiences related to artificial intelligence.
+
+
+
+
+
 ## Contact
 
 * insuj3on@gmail.com
