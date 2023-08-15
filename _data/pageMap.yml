@@ -22,6 +22,14 @@ index:
     url: /wiki/index
     updated: '2019-10-30 08:36:56 +0900'
     children: []
+llm:
+    type: wiki
+    title: LLM
+    summary: 'Large Language Models'
+    parent: index
+    url: /wiki/llm
+    updated: '2023-08-16 07:05:19 +0900'
+    children: []
 math:
     type: wiki
     title: math

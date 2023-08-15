@@ -18,6 +18,8 @@ comment : false
     * [[workshop]]{Workshop}
     * [[vim-conceallevel]]{conceallevel (Vim)}
     
+    
+* [[LLM]]{LLM model}
 ---
 
 
