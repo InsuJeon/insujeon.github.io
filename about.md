@@ -5,17 +5,26 @@ permalink: /about/
 theme: jekyll-theme-minimal
 ---
 
+<!---
 ![]({{ site.url }}/wiki-img/insujeon.jpg)
+--->
+
+<img src="{{ site.url }}/wiki-img/insujeon.jpg" alt="image" width="300" height="auto">
+
 
 # Insu Jeon
 
+Hello, I am a person who is interested in innovating the world with Artificial Intelligence (AI) technology for human well-being and happiness.
 
-I graduated from [UCLA](https://samueli.ucla.edu/) with a major in Computer Science and a minor in Statistics.
-I graduated from [Seoul National University](https://vision.snu.ac.kr/) with a Ph.D. in artificial intelligence.
-I studied [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [NLP](https://en.wikipedia.org/wiki/Natural_language_processing), [Bayesian deep learning](https://en.wikipedia.org/wiki/Bayesian_network), [generative models](https://en.wikipedia.org/wiki/Generative_model), and meta-learning.
-I have lectures and [entrepreneurship](https://rippleai.co/en/) experiences related to artificial intelligence.
+I graduated from [UCLA](https://www.ucla.edu/) with a major in [Computer Science](https://samueli.ucla.edu/) and a minor in [Statistics](https://stats.oarc.ucla.edu/).
 
+I graduated from [Seoul National University](https://en.snu.ac.kr/) with a Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en) under the supervision of [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/index.html#top) in [Vision & Learning Lab](https://vision.snu.ac.kr/) during my Ph.D. period and [Prof. SI Yoo](https://cse.snu.ac.kr/professor/%EC%9C%A0%EC%84%9D%EC%9D%B8) in Artificial Intelligence Labatory during my master's period.
 
+I have participated in various Artificial Intelligence (AI) projects, including [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Bayesian deep learning](https://en.wikipedia.org/wiki/Bayesian_network), [Generative model](https://en.wikipedia.org/wiki/Generative_model), [meta-learning](https://en.wikipedia.org/wiki/Meta-learning_(computer_science)), and [Federated Learning](https://en.wikipedia.org/wiki/Federated_learning).
+
+I have an [entrepreneurship](https://www.nextunicorn.kr/company/1a8415a41e121755) experience where I learned valuable lessons to be an effective tech-leader.
+
+Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf )
 
 ## Contact
 
@@ -23,74 +32,75 @@ I have lectures and [entrepreneurship](https://rippleai.co/en/) experiences rela
 
 ## Education
 
-* Ph.D : Department of Computer Science and Engineering, Seoul National University, 2013~2023
+* **Ph.D** : Department of Computer Science and Engineering, **Seoul National University**, 2013 - 2023
 
-* B.S : Major in Computer Science, Minor in Statistics, University of California in Los Angeles, 2019~2012
-
-## Published Paper
-
-* **Insu Jeon**, Federated Learning via Meta-Variational Dropout, 2023 (under review).
-
-* **Insu Jeon**, Youngjin Park and Gunhee Kim, Neural Variational Dropout Processes, ICLR, 2022.
-
-* **Insu Jeon**, Wonkwang Lee, Myeongjang Pyeon and Gunhee Kim, IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks, AAAI, 2021
-
-* **Insu Jeon**, D Kang, SI Yoo, Blind image deconvolution using Student's-t prior with overlapping group sparsity, ICASSP, 2017.
-
-* **Insu Jeon**, SI Yoo, Spatial kernel bandwidth estimation in background modeling, ICMV, 2016.
-
+* **B.S** : Major in Computer Science, Minor in Statistics, **University of California in Los Angeles**, 2019 - 2012
 
 ## Work Experiences 
 
-* AI Researcher, Vision and Learning Laboratory, SNU, Mar 2017 – Present
-    * Performing research on Artificial Intelligence, NLP, and Bayesian meta-learning.
+* **AI Researcher, Vision and Learning Laboratory, SNU.** Mar 2017 – Sep 2023
+    * Conducted advanced research in Generative models, Natural Language Processing (NLP), and Bayesian meta-learning.
 
-* AI Researcher Intern, Ever-doubling LLC., Jun 2021 – Dec 2021
-    * Participated in AI grand challenge and developed math problem-solving AI engine.
+* **AI Researcher, Ever-doubling LLC.** Jun 2021 – Dec 2021
+    * Participated in AI Grand Challenge; developed a math problem-solving AI engine using a General Language Model.Participated in AI grand challenge and developed math problem-solving AI engine.
 
-* Chief Technology Officer (CTO), RippleAI, Feb 2018 – Dec 2019
-    * Developed and managed the company’s technical resources and led the development team.
+* **Chief Technology Officer (CTO), RippleAI.** Feb 2018 – Dec 2019
+    * Managed a team of 9 developers and engineers; developed an Instagram comment-generating bot.
 
-* AI Researcher, Artificial Intelligence Laboratory, SNU, Sep 2012 – Sep 2016
-    * Participated in a variety of Machine Learning and Computer Vision related projects.
+* **Machine Learning Researcher, Artificial Intelligence Laboratory, SNU.** Sep 2012 – Sep 2016
+    * Developed ML algorithms for computer vision tasks such as defect detection, super-resolution, and registration.
 
 
 ## Projects
-* Unsupervised Learning-based Data Generation Research, Agency for Defense Development, Jun 2022 – Present
-    * Improving object recognition performance via Generative model-based data augmentation in a data-scarce condition
+* **Unsupervised Learning-based Data Generation Research, Agency for Defense Development (ADD).** Jun 2022 – Present
+    * Improved military object recognition performance by 10% via Generative model-based data augmentation.
 
-* Neural Processing System Research, Samsung Advanced Institute of Technology, Mar 2018 – Sep 2019
-    * Contributed to Samsung’s core AI vision technology and organized group activities for the researchers.
+* **Neural Processing System Research, Samsung Advanced Institute of Technology.** Mar 2018 – Sep 2019
+    * Contributed to Samsung’s core AI vision technology, and organized group activities for researchers.
 
-* Computer Vision - Defect Detection, Super-Resolution, and Registration Project, Samsung Device Solutions Institute, Mar 2013 – Sep 2017
-    * Designed and improved the defect monitoring system for the semiconductor display (SEM/OLED) production line.
+* **Computer Vision Projects, Samsung Device Solutions Institute.** Mar 2013 – Sep 2017
+    * Optimized defect-monitoring systems in semiconductor display (SEM/OLED) production lines.
+
+## Published Paper
+
+* **Insu Jeon**. "Federated Learning via Meta-Variational Dropout." *NeurIPS*, 2023. (under review).
+
+* **Insu Jeon**, Junhyeog Yun, Minui Hong, and Gunhee Kim. "Data Augmentation via Generation Model in Military Aircraft Classification." *KIMST*, 2023.
+
+* **Insu Jeon**, Youngjin Park and Gunhee Kim. "Neural Variational Dropout Processes." *ICLR*, 2022.
+
+* **Insu Jeon**, Wonkwang Lee, Myeongjang Pyeon and Gunhee Kim. "IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks." *AAAI*, 2021.
+
+* **Insu Jeon**, D Kang, SI Yoo. "Blind image deconvolution using Student's-t prior with overlapping group sparsity." *ICASSP*, 2017.
+
+* **Insu Jeon**, SI Yoo. "Spatial kernel bandwidth estimation in background modeling." *ICMV*, 2016.
 
 
 ## Awards 
-* 1th Kbig-contest – National Information Society Agency, Dec 2013
-    * Developed Twitter hot issue forecaster based on Machine Learning algorithm and placed an encouragement award.
+* **1th Kbig-contest – National Information Society Agency.** Dec 2013
+    * Developed Twitter hot issue forecaster using NLP algorithm and placed an encouragement award.
 
 ## Teaching Experience
-* Special Lectures on Bayesian Data Analysis and Statistical Inference – GSSHOP, May 2019
-    * A lecture on Bayesian theory and statistical inference technique for commercial data analysis.
+* **Special Lectures on Bayesian Data Analysis and Statistical Inference – GSSHOP.** May 2019
+    * Delivered lectures on Bayesian theory and statistical inference techniques for commercial data analysis.
 
-* Practical Guide to Deep Learning – Korea Banking Institute, Mar 2019
-    * A lecture on Deep Learning and Natural Language Processing.
+* **Practical Guide to Deep Learning – Korea Banking Institute.** Mar 2019
+    * Conducted lectures on Deep Learning and Natural Language Processing.
 
-* Introduction to Generative Model with PyTorch – Fastcampus, Sep 2017 – Sep 2018
-    * A lecture on Deep Generative model and Bayesian Deep Learning.
+* **Introduction to Generative Model with PyTorch – Fastcampus.** Sep 2017 – Sep 2018
+    * Taught courses on Deep Generative model and Bayesian Deep Learning.
 
-* Special Issues in Machine Learning and Deep Learning – Seokyong University, Jun 2017
-    * Recent developments in Deep Learning, Machine Learning, and Artificial Intelligence.
+* **Special Issues in Machine Learning and Deep Learning – Seokyong University.** Jun 2017
+    * Performed lectures on Modern developments in Machine Learning, Deep Learning, and Artificial Intelligence.
 
-* Prerequisite Courses for Artificial Intelligence – SNU 4th Industrial Revolution Academy, May 2017
+* **Prerequisite Courses for Artificial Intelligence – SNU 4th Industrial Revolution Academy.** May 2017
     * Prerequisite courses for understanding Artificial Intelligence - Linear Algebra, Probability, and Statistics.
 
 ## Technical Skills
-* Computer Skills
+* **Computer Skills**
     * Python, C/C++, Java, JavaScript, Objective C, OpenMP, CUDA, HTML, Bash, Windows, Mac OS, Linux
 
-* Languages
+* **Languages**
     * Korean (native), English (proficient).
 
 
@@ -104,5 +114,6 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
-
 [jekyll-organization]: https://github.com/jekyll -->
+
+
