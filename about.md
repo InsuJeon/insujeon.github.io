@@ -24,7 +24,7 @@ I have participated in various Artificial Intelligence (AI) projects, including 
 
 I have an [entrepreneurship](https://www.nextunicorn.kr/company/1a8415a41e121755) experience where I learned valuable lessons to be an effective tech-leader.
 
-Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf )
+Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf ).
 
 ## Contact
 
