@@ -42,7 +42,7 @@ Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf ).
     * Conducted advanced research in Generative models, Natural Language Processing (NLP), and Bayesian meta-learning.
 
 * **AI Researcher, Ever-doubling LLC.** Jun 2021 – Dec 2021
-    * Participated in AI Grand Challenge; developed a math problem-solving AI engine using a General Language Model.Participated in AI grand challenge and developed math problem-solving AI engine.
+    * Participated in AI Grand Challenge; developed a math problem-solving AI engine using a General Language Model.
 
 * **Chief Technology Officer (CTO), RippleAI.** Feb 2018 – Dec 2019
     * Managed a team of 9 developers and engineers; developed an Instagram comment-generating bot.
