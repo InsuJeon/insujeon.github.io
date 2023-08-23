@@ -17,9 +17,9 @@ comment : false
     * [[githubs]]{GitHubs}
     * [[workshop]]{Workshop}
     * [[vim-conceallevel]]{conceallevel (Vim)}
-    
-    
-* [[LLM]]{LLM model}
+
+
+<!-- * [[LLM]]{LLM model} -->
 ---
 
 
