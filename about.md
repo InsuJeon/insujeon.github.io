@@ -18,7 +18,7 @@ Hello, I am a person who is interested in innovating the world with Artificial I
 
 I graduated from [UCLA](https://www.ucla.edu/) with a major in [Computer Science](https://samueli.ucla.edu/) and a minor in [Statistics](https://stats.oarc.ucla.edu/).
 
-I graduated from [Seoul National University](https://en.snu.ac.kr/) with a Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en) under the supervision of [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/index.html#top) in [Vision & Learning Lab](https://vision.snu.ac.kr/) during my Ph.D. period and [Prof. SI Yoo](https://cse.snu.ac.kr/professor/%EC%9C%A0%EC%84%9D%EC%9D%B8) in Artificial Intelligence Labatory during my master's period.
+I graduated from [Seoul National University](https://en.snu.ac.kr/) with a Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en) under the supervision of [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/index.html#top) in the [Vision & Learning Lab](https://vision.snu.ac.kr/). I was under [Prof. SI Yoo](https://cse.snu.ac.kr/professor/%EC%9C%A0%EC%84%9D%EC%9D%B8) in the Artificial Intelligence Laboratory during my master's period.
 
 I have participated in various Artificial Intelligence (AI) projects, including [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Bayesian deep learning](https://en.wikipedia.org/wiki/Bayesian_network), [Generative model](https://en.wikipedia.org/wiki/Generative_model), [meta-learning](https://en.wikipedia.org/wiki/Meta-learning_(computer_science)), and [Federated Learning](https://en.wikipedia.org/wiki/Federated_learning).
 
