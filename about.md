@@ -22,7 +22,7 @@ I graduated from [Seoul National University](https://en.snu.ac.kr/) with a Ph.D.
 
 I have participated in various Artificial Intelligence (AI) projects, including [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Bayesian deep learning](https://en.wikipedia.org/wiki/Bayesian_network), [Generative model](https://en.wikipedia.org/wiki/Generative_model), [meta-learning](https://en.wikipedia.org/wiki/Meta-learning_(computer_science)), and [Federated Learning](https://en.wikipedia.org/wiki/Federated_learning).
 
-I have an [entrepreneurship](https://www.nextunicorn.kr/company/1a8415a41e121755) experience where I learned valuable lessons to be an effective tech-leader.
+I have an [entrepreneurship](https://www.nextunicorn.kr/company/1a8415a41e121755) experience where I learned valuable lessons to be a tech-leader.
 
 Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf ).
 
