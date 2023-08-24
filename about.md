@@ -65,15 +65,19 @@ Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf ).
 
 * **Insu Jeon**. "Federated Learning via Meta-Variational Dropout." *NeurIPS*, 2023. (under review).
 
-* **Insu Jeon**, Junhyeog Yun, Minui Hong, and Gunhee Kim. "Data Augmentation via Generation Model in Military Aircraft Classification." *KIMST*, 2023.
+* **Insu Jeon**, Junhyeog Yun, Minui Hong, and Gunhee Kim. "Data Augmentation via Generation Model in Military Aircraft Classification." *KIMST*, 2023. [[project](https://insujeon.gitbook.io/cv/published-papers/military)\]
 
-* **Insu Jeon**, Youngjin Park and Gunhee Kim. "Neural Variational Dropout Processes." *ICLR*, 2022.
+* **Insu Jeon**, Youngjin Park and Gunhee Kim. "Neural Variational Dropout Processes." *ICLR*, 2022. \[[paper](https://openreview.net/forum?id=lyLVzukXi08)\] \[[code](https://github.com/insujeon/NVDPs)\] \[[project](https://insujeon.gitbook.io/cv/published-papers/neural-variational-dropout-processes)\]
 
-* **Insu Jeon**, Wonkwang Lee, Myeongjang Pyeon and Gunhee Kim. "IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks." *AAAI*, 2021.
+* **Insu Jeon**, Wonkwang Lee, Myeongjang Pyeon and Gunhee Kim. "IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks." *AAAI*, 2021. \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16967)\] \[[code](https://github.com/insujeon/IB-GAN)\] \[[project](https://insujeon.gitbook.io/cv/published-papers/ib-gan)\]
 
-* **Insu Jeon**, D Kang, SI Yoo. "Blind image deconvolution using Student's-t prior with overlapping group sparsity." *ICASSP*, 2017.
 
-* **Insu Jeon**, SI Yoo. "Spatial kernel bandwidth estimation in background modeling." *ICMV*, 2016.
+* **Insu Jeon**, D Kang, SI Yoo. "Blind image deconvolution using Student's-t prior with overlapping group sparsity." *ICASSP*, 2017. \[[paper](https://ieeexplore.ieee.org/document/7952470)\] \[[pdf](https://arxiv.org/abs/2006.14780)\] \[[project](https://insujeon.gitbook.io/cv/published-papers/blind-image-deconvolution-using-students-t-prior-with-overlapping-group-sparsity)\]
+
+
+* **Insu Jeon**, SI Yoo. "Spatial kernel bandwidth estimation in background modeling." *ICMV*, 2016. \[[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10341/1/Spatial-kernel-bandwidth-estimation-in-background-modeling/10.1117/12.2268512.short?SSO=1)\]
+
+
 
 
 ## Awards 

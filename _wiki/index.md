@@ -1,6 +1,6 @@
 ---
 layout  : wikiindex
-title   : wiki
+title   : Wiki
 date    : 2017-11-26 21:38:36 +0900
 updated : 2019-10-30 08:36:56 +0900
 tags    : index

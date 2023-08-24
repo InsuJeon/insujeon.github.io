@@ -16,7 +16,7 @@ githubs:
     children: []
 index:
     type: wiki
-    title: wiki
+    title: Wiki
     summary: null
     parent: null
     url: /wiki/index
