@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
 ![]({{ site.url }}/wiki-img/insujeon.jpg)
 --->
 
-<img src="{{ site.url }}/wiki-img/insujeon.jpg" alt="image" width="300" height="auto">
+<img src="{{ site.url }}/data/insujeon2.jpg" alt="image" width="350" height="auto">
 
 
 # Insu Jeon
