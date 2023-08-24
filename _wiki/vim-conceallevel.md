@@ -1,7 +1,7 @@
 ---
 layout  : wiki
 title   : conceallevel (Vim)
-summary : Vim에서 글자나 기호가 사라진다면 conceallevel을 확인해보자
+summary : 
 date    : 2022-11-29 17:47:59 +0900
 updated : 2022-12-20 13:13:32 +0900
 tags    : vim trouble-shooting
