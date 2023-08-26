@@ -65,7 +65,7 @@ Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf ).
 
 * **Insu Jeon**. "Federated Learning via Meta-Variational Dropout." *NeurIPS*, 2023. (under review).
 
-* **Insu Jeon**, Junhyeog Yun, Minui Hong, and Gunhee Kim. "Data Augmentation via Generation Model in Military Aircraft Classification." *KIMST*, 2023. [[project](https://insujeon.gitbook.io/cv/published-papers/military)\]
+* **Insu Jeon**, Junhyeog Yun, Minui Hong, and Gunhee Kim. "Data Augmentation via Generation Model in Military Aircraft Classification." *KIMST*, 2023.
 
 * **Insu Jeon**, Youngjin Park and Gunhee Kim. "Neural Variational Dropout Processes." *ICLR*, 2022. \[[paper](https://openreview.net/forum?id=lyLVzukXi08)\] \[[code](https://github.com/insujeon/NVDPs)\] \[[project](https://insujeon.gitbook.io/cv/published-papers/neural-variational-dropout-processes)\]
 
