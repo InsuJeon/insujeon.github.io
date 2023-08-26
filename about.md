@@ -86,19 +86,19 @@ Here is my [CV]( {{ site.url }}/data/InsuJeon_cv2023.pdf ).
 
 ## Teaching Experience
 * **Special Lectures on Bayesian Data Analysis and Statistical Inference – GSSHOP.** May 2019
-    * Delivered lectures on Bayesian theory and statistical inference techniques for commercial data analysis.
+    * Delivered lectures on Bayesian theory and statistical inference techniques for commercial data analysis. \[[part1]( {{ site.url }}/data/BayesForML_Day1.pdf )\] \[[part2]( {{ site.url }}/data/BayesForML_Day2.pdf )\] \[[part3]( {{ site.url }}/data/BayesForML_Day3.pdf )\]
 
 * **Practical Guide to Deep Learning – Korea Banking Institute.** Mar 2019
     * Conducted lectures on Deep Learning and Natural Language Processing.
 
 * **Introduction to Generative Model with PyTorch – Fastcampus.** Sep 2017 – Sep 2018
-    * Taught courses on Deep Generative model and Bayesian Deep Learning.
+    * Taught courses on Deep Generative model and Bayesian Deep Learning. \[[code](https://github.com/insujeon/Hello-Generative-Model)\]
 
 * **Special Issues in Machine Learning and Deep Learning – Seokyong University.** Jun 2017
     * Performed lectures on Modern developments in Machine Learning, Deep Learning, and Artificial Intelligence.
 
 * **Prerequisite Courses for Artificial Intelligence – SNU 4th Industrial Revolution Academy.** May 2017
-    * Prerequisite courses for understanding Artificial Intelligence - Linear Algebra, Probability, and Statistics.
+    * Prerequisite courses for understanding Artificial Intelligence - Linear Algebra, Probability, and Statistics. \[[part1]( {{ site.url }}/data/LinearAlg.pdf )\]
 
 ## Technical Skills
 * **Computer Skills**
