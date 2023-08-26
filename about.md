@@ -16,7 +16,7 @@ theme: jekyll-theme-minimal
 
 Hello, I am a person who is interested in innovating the world with Artificial Intelligence (AI) technology for human well-being and happiness.
 
-I graduated from [UCLA](https://www.ucla.edu/) with a major in [Computer Science](https://samueli.ucla.edu/) and a minor in [Statistics](https://stats.oarc.ucla.edu/).
+I graduated from [UCLA](https://www.ucla.edu/) with a major in [Computer Science](https://samueli.ucla.edu/) and a minor in [Statistics](http://statistics.ucla.edu/).
 
 I graduated from [Seoul National University](https://en.snu.ac.kr/) with a Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en) under the supervision of [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/index.html#top) in the [Vision & Learning Lab](https://vision.snu.ac.kr/). I was under [Prof. SI Yoo](https://cse.snu.ac.kr/professor/%EC%9C%A0%EC%84%9D%EC%9D%B8) in the Artificial Intelligence Laboratory during my master's period.
 
